@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidChat</string>
+    <string name="edit_username">Username</string>
+    <string name="edit_roomName">Room name</string>
+    <string name="button_join">Join</string>
+    <string name="edit_message">Message</string>
+    <string name="button_send">Send</string>
+</resources>
